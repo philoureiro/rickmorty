@@ -22,7 +22,7 @@ function CardGrid({ getData }: Props) {
       setData(await getData.get());
     } catch (error) {
       toast({
-        title: "Personagem não encontrado.",
+        title: "Dados não encontrados.",
         status: "error",
         variant: "left-accent",
         isClosable: true,
