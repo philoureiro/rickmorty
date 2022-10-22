@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/rickmorty/static/css/main.f33f00cb.css",
-    "main.js": "/rickmorty/static/js/main.b877d721.js",
+    "main.js": "/rickmorty/static/js/main.ce195a6f.js",
     "static/media/logo.png": "/rickmorty/static/media/logo.42c8df0b92603ef2e2e2.png",
     "index.html": "/rickmorty/index.html",
     "main.f33f00cb.css.map": "/rickmorty/static/css/main.f33f00cb.css.map",
-    "main.b877d721.js.map": "/rickmorty/static/js/main.b877d721.js.map"
+    "main.ce195a6f.js.map": "/rickmorty/static/js/main.ce195a6f.js.map"
   },
   "entrypoints": [
     "static/css/main.f33f00cb.css",
-    "static/js/main.b877d721.js"
+    "static/js/main.ce195a6f.js"
   ]
 }
